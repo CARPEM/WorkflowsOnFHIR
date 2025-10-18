@@ -50,6 +50,8 @@ The complete FHIR Implementation Guide with the generated PlanDefinition for TNM
 
 ## Claude Code Prompt
 
+The complete Claude Code Prompt used to generate the PlanDefinition artifact is available at:
+
 **[Claude Code Prompt](./BPMNToPlanDefinition.md)**
 ---
 
