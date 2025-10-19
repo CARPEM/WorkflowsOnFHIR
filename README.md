@@ -56,6 +56,14 @@ The complete Claude Code Prompt used to generate the PlanDefinition artifact is 
 **[Claude Code Prompt](./BPMNToPlanDefinition.md)**
 ---
 
+## The resulting PlanDefinition
+
+The resulting PlanDefinition artifact (as a FHIR FSH file) is available at:
+
+**[TNM PlanDefinition Fsh file](./TNMPlanDefinition.fsh)**
+---
+
+
 ## Contact
 
 For more information or to cite this work, please contact:
