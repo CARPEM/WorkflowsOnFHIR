@@ -65,7 +65,7 @@ The resulting PlanDefinition artifact (as a FHIR FSH file) is available at:
 
 ## Reproductibility study
 
-We produce five version of the PlanDefinition using the identical context, and prompt. The files are available in the **[repro_study](./repro_study/)** folder. The analysis of the difference is available at: **[Reproducibility study](./ReproductibilityStudy.md)**
+We produce five versions of the PlanDefinition using the identical context and prompt. The files are available in the **[repro_study](./repro_study/)** folder. The full analysis of the differences among the five PlanDefinition versions is available at: **[Reproducibility study](./ReproductibilityStudy.md)**
 
 ## Contact
 
