@@ -63,6 +63,9 @@ The resulting PlanDefinition artifact (as a FHIR FSH file) is available at:
 **[TNM PlanDefinition Fsh file](./TNMPlanDefinition.fsh)**
 ---
 
+## Reproductibility study
+
+We produce five version of the PlanDefinition using the identical context, and prompt. The files are available in the **[repro_study](./repro_study/)** folder. The analysis of the difference is available at: **[Reprodducibility study](./ReproductibilityStudy.md)**
 
 ## Contact
 
