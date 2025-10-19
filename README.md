@@ -36,6 +36,7 @@ The approach involved creating BPMN diagrams to map the TNM staging workflow, do
 This work illustrates that AI can effectively translate conceptual models into formal FHIR structures, simplifying artifact generation, reducing costs in time and expertise, and assisting non-experts in adopting FHIR. The approach demonstrates how Generative AI can serve as a collaborative assistant in achieving transparent, reproducible, and semantically rich data transformation pipelines.
 
 #### BPMN used to represent the data extraction and integration workflow
+**[TNM BPMN file](./TNM.bpmn)**
 ![BPMN diagram of the TNM processing](./bpmn_tnm.svg)
 
 ---
