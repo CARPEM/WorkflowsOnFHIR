@@ -1,10 +1,10 @@
-Instance: CarpemTNMCancerStaging20251019v3
+Instance: CarpemTNMCancerStaging20251019v4
 InstanceOf: PlanDefinition
-Title: "Carpem TNM Cancer Staging (2025-10-19 v3)"
+Title: "Carpem TNM Cancer Staging (v4)"
 Description: "PlanDefinition for TNM cancer staging workflow based on pathology reports, tumor board reports, and tumor board report documents. Generated from BPMN workflow on 2025-10-19."
 Usage: #definition
 
-* name = "CarpemTNMCancerStaging20251019v3"
+* name = "CarpemTNMCancerStaging20251019v4"
 * status = #active
 
 * action[0]
